@@ -1,0 +1,23 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.dark {
+    --bg-color: #0f172a; /* slate-900 */
+    --card-color: #1e293b; /* slate-800 */
+    --border-color: #334155; /* slate-700 */
+    --text-primary: #f1f5f9; /* slate-100 */
+    --text-secondary: #94a3b8; /* slate-400 */
+    --accent-color: #38bdf8; /* sky-400 */
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-secondary);
+}
+
+@keyframes pulse {
+    50% {
+        opacity: .5;
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Thanachat Malasaeng",
+  "nickname": "ChinJang",
+  "profileImage": "https://scontent.fnak3-1.fna.fbcdn.net/v/t1.15752-9/514310913_2129436637570106_130399754696322179_n.jpg?stp=dst-jpg_tt6&cstp=mx1710x1710&ctp=s1710x1710&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YtPlP28OeQIQ7kNvwH2Ln9r&_nc_oc=AdknMPe_V4H7gXLlQDlWqEiM0y_XL7YeWmcz8XDVgRbCfzDQAxekHjrRqKeNZea82cg&_nc_zt=23&_nc_ht=scontent.fnak3-1.fna&oh=03_Q7cD2gEAgia_Mle1NdJloHfHgSKji-jiKbnIyUHMlyOYkai-uw&oe=688ABDD0",
+  "tagline": "วิศวะมหาวิทยาลัยเทคโนโลยีสุรนารี ชอบศึกษา Networking และ Algorithms",
+  "about": [
+    "ในตอนที่เป็นเด็กผมชอบเล่นคอม และสร้างมากๆ จึงสนใจในการ Coding มาตั้งแต่ป.5 แต่พึ่งได้เข้าใจการเขียนจริงๆ ตอน ม.1 และเริ่มเขียนจริงจังตอน ม.3 หลังจากนั้นก็ทำเป็นงานอดิเรกมาเรื่อยๆ หลากหลายภาษากัน เพราะความต้องการแต่ละปีไม่เหมือนกัน.",
+    "ผมชอบที่จะลองเขียนโค้ด และ Debugging อยู่ทั้งคืน ทำให้รู้วิธีการคิดต่างๆ ซึ่งหลายเดือนมานี้ได้ลองศึกษาการทำ Website และใข้ Tailwind Framework และอยากการทำงานอดิเรกของผม ทำให้มันสามารถเป็นอาชีพได้ครับ."
+  ],
+  "education": [
+    {
+      "period": "2015 — 2018",
+      "degree": "Primary education",
+      "institution": "Banyuak School",
+      "institution_url": "https://www.facebook.com/banyuakschool/?locale=th_TH",
+      "description": "เคยเรียนที่โรงเรียนบ้านหยวกตั้งแต่ ชั้นประถมศึกษาปีที่ 1 - ชั้นประถมศึกษาปีที่ 3 ครับ"
+    },
+    {
+      "period": "2018 - 2020",
+      "degree": "Completed primary school",
+      "institution": "Thasom School",
+      "institution_url": "https://www.facebook.com/thasomschool/?locale=th_TH",
+      "description": "เคยเรียนที่โรงเรียนบ้านท่าโสมตั้งแต่ ชั้นประถมศึกษาปีที่ 4 - ชั้นประถมศึกษาปีที่ 6 ครับ"
+    },
+    {
+      "period": "2020 — 2025",
+      "degree": "Graduated from high school",
+      "institution": "Namsomphitthayakhom School",
+      "institution_url": "https://namsompit.ac.th/home/info/32/",
+      "description": "เคยเรียนที่โรงเรียนน้ำโสมพิทยาคม ตั้งแต่ ชั้นมัธยมศึกษาปีที่ 1 - ชั้นมัธยมศึกษาปีที่ 6 ครับ"
+    },
+    {
+      "period": "2025 — Present",
+      "degree": "Studying in Engineering",
+      "institution": "Suranaree University of Technology",
+      "institution_url": "https://www.sut.ac.th/en",
+      "description": "ผมกำลังเรียนวิศวกรรมศาสตร์ที่ มหาวิทยาลัยเทคโนโลยีสุรนารี และปี 2 มั่นใจที่จะต่อสายวิศวะคอมพิวเตอร์ เพราะชอบการทำงานกับคอมพิวเตอร์มากครับ"
+    }
+  ],
+  "skills": {
+    "technical": ["Python", "JavaScript", "C", "C++", "Lua"],
+    "experiences": ["Linux", "Algorithms", "Design"],
+    "tools": ["Figma", "Microsoft Word", "Microsoft Excel", "and more..."]
+  },
+   "footer": {
+    "coded_in": "Visual Studio Code",
+    "coded_in_url": "https://code.visualstudio.com/",
+    "built_with": "Tailwind CSS",
+    "built_with_url": "https://tailwindcss.com/",
+    "deployed_with": "GitHub Actions",
+    "deployed_with_url": "https://github.com/"
+  }
+}

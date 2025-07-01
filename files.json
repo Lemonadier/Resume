@@ -1,0 +1,45 @@
+{
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Lemonadier",
+      "icon": "github"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/LemonadeX20/",
+      "icon": "Facebook"
+    },
+    {
+      "name": "Email",
+      "url": "https://lemonadier.github.io/Portfolio/",
+      "icon": "mail"
+    }
+  ],
+  "projects": [
+    {
+      "name": "เว็บสำหรับห้องเรียนอนุบาล 3 โรงเรียนบ้านหยวก",
+      "description": "The very website you are looking at. A responsive, dark-themed, single-page resume built with HTML, Tailwind CSS, and vanilla JavaScript. All content is dynamically loaded from JSON files.",
+      "url": "https://main.d1sv01qp9rfbue.amplifyapp.com/#/home",
+      "image": "files/BB.png"
+    },
+    {
+      "name": "Town Home Details Website",
+      "description": "A brief description of a cool university project. What was the goal? What technologies were used? What was the outcome?",
+      "url": "https://lemonadier.github.io/TownHome/",
+      "image": "files/B.png"
+    },
+    {
+      "name": "Personal Portfolio Website",
+      "description": "A brief description of a cool university project. What was the goal? What technologies were used? What was the outcome?",
+      "url": "https://lemonadier.github.io/Portfolio/",
+      "image": "files/P.png"
+    },
+    {
+      "name": "University Project X",
+      "description": "A brief description of a cool university project. What was the goal? What technologies were used? What was the outcome?",
+      "url": "https://lemonadier.github.io/TheRoom/",
+      "image": "files/S.png"
+    }
+  ]
+}
